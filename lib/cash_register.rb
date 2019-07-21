@@ -40,3 +40,4 @@ class CashRegister
     self.total -= @last_trans.last
   end
 end
+
